@@ -1,0 +1,10 @@
+# Игнорировать виртуальное окружение
+venv
+venv/
+# Игнорировать временные файлы
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.idea/
+.vscode/
